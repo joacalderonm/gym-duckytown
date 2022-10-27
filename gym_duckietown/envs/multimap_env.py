@@ -50,7 +50,7 @@ class MultiMapEnv(gym.Env):
         return [seed]
 
     def reset(self):
-        #self.cur_env_idx = self.np_random.randint(0, len(self.env_list))
+        #self.cur_env_idx = self.np_random.integers(0, len(self.env_list))
         self.cur_env_idx = (self.cur_env_idx + 1) % len(self.env_list)
 
         env = self.env_list[self.cur_env_idx]

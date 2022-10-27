@@ -117,7 +117,7 @@ class DuckietownNav(DuckietownEnv):
         # Select a random goal tile to navigate to
         assert len(self.drivable_tiles) > 1
         while True:
-            tile_idx = self.np_random.randint(0, len(self.drivable_tiles))
+            tile_idx = self.np_random.integers(0, len(self.drivable_tiles))
             self.goal_tile = self.drivable_tiles[tile_idx]
             if self.goal_tile is not start_tile:
                 break
