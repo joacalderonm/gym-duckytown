@@ -11,7 +11,7 @@ cloudpickle==2.2.0
 coloredlogs==15.0.1
 coverage==6.2
 cycler==0.11.0
-dataclasses==0.8
+dataclasses
 dataclasses-json==0.5.7
 decorator==4.4.2
 -e git+https://github.com/duckietown/gym-duckietown.git@fff88234d37c62336e71d663da5955e84aaf0021#egg=duckietown_gym_daffy
@@ -59,7 +59,7 @@ pybase64==1.2.3
 PyContracts3==3.0.2
 pycparser==2.21
 PyGeometry-z6==2.1.4
-pyglet==1.5.0
+pyglet==1.5.27
 Pygments==2.13.0
 PyOpenGL==3.1.0
 pyparsing==3.0.9
