@@ -29,8 +29,8 @@ from .objmesh import *
 from .randomization import Randomizer
 
 # Rendering window size
-WINDOW_WIDTH = 800
-WINDOW_HEIGHT = 600
+WINDOW_WIDTH = 1000
+WINDOW_HEIGHT = 800
 
 # Camera image size
 DEFAULT_CAMERA_WIDTH = 640
@@ -673,7 +673,7 @@ class Simulator(gym.Env):
                 if kind == "duckiebot":
                     obj = DuckiebotObj(obj_desc, self.domain_rand, SAFETY_RAD_MULT, WHEEL_DIST,
                                        ROBOT_WIDTH, ROBOT_LENGTH)
-                elif kind == "duckie":
+                elif kind == "duckie" or kind == "duckie_alien" or kind == "patomalo":
                     obj = DuckieObj(obj_desc, self.domain_rand, SAFETY_RAD_MULT, self.road_tile_size)
                 else:
                     msg = 'I do not know what object this is: %s' % kind
@@ -1437,7 +1437,7 @@ class Simulator(gym.Env):
             gl.gluLookAt(
                     # Eye position
                     (self.grid_width * self.road_tile_size) / 2,
-                    5,
+                    10,
                     (self.grid_height * self.road_tile_size) / 2,
                     # Target
                     (self.grid_width * self.road_tile_size) / 2,

@@ -37,7 +37,7 @@ class Texture(object):
         assert len(paths) > 0, 'failed to load textures for name "%s"' % tex_name
 
         if rng:
-            path_idx = rng.integers(0, len(paths))
+            path_idx = rng.randint(0, len(paths))
             path = paths[path_idx]
         else:
             path = paths[0]
