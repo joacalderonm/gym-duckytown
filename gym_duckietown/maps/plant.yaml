@@ -6,13 +6,13 @@
 # The orientations are North, South, East, West. This is the direction in
 # which the agent is expected to drive when going onto this tile.
 tiles:
-- [floor    , floor         , floor     , floor         , floor     , floor         , floor         , floor]
-- [floor    , curve_left/W  , straight/W, 3way_left/W   , straight/W, straight/W    , curve_left/N  , asphalt]
-- [floor    , straight/S    , grass     , straight/N    , asphalt   , asphalt       , straight/N    , asphalt]
-- [floor    , 3way_left/S   , straight/W, 3way_left/N   , asphalt   , asphalt       , straight/N    , asphalt]
-- [floor    , straight/S    , grass     , straight/N    , asphalt   , curve_right/N , curve_left/E  , asphalt]
-- [floor    , curve_left/S  , straight/E, 3way_left/E   , straight/E, curve_left/E  , asphalt       , asphalt]
-- [floor    , floor         , floor     , floor         , floor     , floor         , floor         , floor]
+- [grass    , grass         , grass     , grass         , grass     , grass         , grass         , grass]
+- [grass    , curve_left/W  , straight/W, 3way_left/W   , straight/W, straight/W    , curve_left/N  , grass]
+- [grass    , straight/S    , grass     , straight/N    , asphalt   , asphalt       , straight/N    , grass]
+- [grass    , 3way_left/S   , straight/W, 3way_left/N   , asphalt   , asphalt       , straight/N    , grass]
+- [grass    , straight/S    , grass     , straight/N    , asphalt   , curve_right/N , curve_left/E  , grass]
+- [grass    , curve_left/S  , straight/E, 3way_left/E   , straight/E, curve_left/E  , grass       , grass]
+- [grass    , grass         , grass     , grass         , grass     , grass         , grass         , grass]
 
 # The following is a listing of 3D objects placed on the map
 #
@@ -63,6 +63,44 @@ objects:
   rotate: 0
   height: 0.18
 
+- kind: sign_plant
+  pos: [2.3, 4.3]
+  rotate: 135
+  height: 0.18
+- kind: sign_plant
+  pos: [2.3, 4.7]
+  rotate: -135
+  height: 0.18
+- kind: sign_plant
+  pos: [2.8, 4.7]
+  rotate: -45
+  height: 0.18
+- kind: sign_plant
+  pos: [2.8, 4.3]
+  rotate: 45
+  height: 0.18
+
+- kind: tree
+  pos: [6.5, 5.5]
+  rotate: -45
+  height: 0.18
+
+- kind: sign_plant
+  pos: [6.3, 5.3]
+  rotate: 135
+  height: 0.18
+- kind: sign_plant
+  pos: [6.3, 5.7]
+  rotate: 180
+  height: 0.18
+- kind: sign_plant
+  pos: [6.8, 5.3]
+  rotate: 90
+  height: 0.18
+
+
+
+
 - kind: house
   pos: [4.8, 2.6]
   rotate: 90
@@ -90,10 +128,20 @@ objects:
   rotate: 0
   height: 0.18
   optional: true
-- kind: truck
+
+
+
+- kind: tree
   pos: [7.5, 0.5]
   rotate: 180
   height: 0.2
   optional: true
+
+
+- kind: sign_plant
+  pos: [7.3, 0.7]
+  rotate: -135
+  height: 0.18
+
 
 tile_size: 0.585

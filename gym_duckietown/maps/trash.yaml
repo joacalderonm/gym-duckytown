@@ -1,0 +1,259 @@
+# The following section defines the grid layout.
+#
+# Each row is an array of tiles descriptions.
+# The top-left tile in this file maps to coordinates (0, 0) in the world
+# Each tile contains a string with the kind of tile and its orientation.
+# The orientations are North, South, East, West. This is the direction in
+# which the agent is expected to drive when going onto this tile.
+tiles:
+- [grass   , grass         , grass   , grass         , grass     , grass         , grass         , grass]
+- [grass    , curve_left/W  , straight/W, 3way_left/W   , straight/W, straight/W    , curve_left/N  , grass]
+- [grass    , straight/S    , grass     , straight/N    , asphalt   , asphalt       , straight/N    , grass]
+- [grass    , 3way_left/S   , straight/W, 3way_left/N   , asphalt   , asphalt       , straight/N    , grass]
+- [grass    , straight/S    , grass     , straight/N    , asphalt   , curve_right/N , curve_left/E  , grass]
+- [grass    , curve_left/S  , straight/E, 3way_left/E   , straight/E, curve_left/E  , grass      , grass]
+- [grass   , grass        , grass    , grass         , grass     , grass        , grass       , grass]
+
+# The following is a listing of 3D objects placed on the map
+#
+# pos: object positions are scaled according to the tile size, so
+#      that (1.5, 2.5) would be exactly in the middle of tile (1, 2)
+# height: Objects can be scaled according to their real-world height in meters
+#         Duckietown tiles are 61cm, or 0.61 meter
+# rotate: the rotation angle determine the object's orientation
+#         a positive rotation angle corresponds to a counter-clockwise
+#         (leftward) rotation. The angles are in degrees.
+#         Models should, at angle 0, face towards the positive X axis.
+objects:
+
+- kind: tree
+  pos: [2.5, 4.5]
+  rotate: 180
+  height: 0.25
+  optional: true
+
+- kind: duckie
+  pos: [2.5, 2.9]
+  rotate: -90
+  height: 0.08
+  optional: true
+
+- kind: sign_stop
+  pos: [2.08, 4.05]
+  rotate: 90
+  height: 0.18
+- kind: sign_left_T_intersect
+  pos: [0.94, 3.96]
+  rotate: 90
+  height: 0.18
+- kind: sign_stop
+  pos: [2.08, 2.96]
+  rotate: -90
+  height: 0.18
+- kind: sign_right_T_intersect
+  pos: [0.94, 3.05]
+  rotate: -90
+  height: 0.18
+- kind: sign_stop
+  pos: [0.94, 4.05]
+  rotate: 0
+  height: 0.18
+- kind: sign_T_intersect
+  pos: [0.94, 2.96]
+  rotate: 0
+  height: 0.18
+
+
+
+
+- kind: house
+  pos: [4.8, 2.6]
+  rotate: 90
+  height: 0.5
+  optional: true
+
+- kind: truck
+  pos: [1.6, 6.3]
+  rotate: 0
+  height: 0.2
+  optional: true
+
+- kind: bus
+  pos: [2.0, 0.5]
+  rotate: 0
+  height: 0.18
+  optional: true
+- kind: bus
+  pos: [4, 0.5]
+  rotate: 0
+  height: 0.18
+  optional: true
+- kind: bus
+  pos: [6.0, 0.5]
+  rotate: 0
+  height: 0.18
+  optional: true
+
+
+
+
+- kind: trash
+  pos: [1.5, 1.5]
+  rotate: 180
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [1.5, 1.6]
+  rotate: 135
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [1.6, 1.6]
+  rotate: 135
+  height: 0.04
+  optional: true
+- kind: sign_trash
+  pos: [1.52, 1.6]
+  rotate: 0
+  height: 0.1
+  optional: true
+- kind: sign_trash
+  pos: [1.5, 1.62]
+  rotate: -90
+  height: 0.1
+  optional: true
+
+
+
+
+- kind: trash
+  pos: [3.25, 2.5]
+  rotate: 90
+  height: 0.041
+  optional: true
+- kind: trash
+  pos: [3.25, 2.6]
+  rotate: 45
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [3.3, 2.6]
+  rotate: 45
+  height: 0.04
+  optional: true
+- kind: sign_trash
+  pos: [3.3, 2.5]
+  rotate: 90
+  height: 0.1
+  optional: true
+- kind: sign_trash
+  pos: [3.3, 2.501]
+  rotate: -90
+  height: 0.1
+  optional: true
+
+
+
+- kind: trash
+  pos: [5.3,  4.5]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [5.3,  4.4]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [5.2,  4.4]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [5.4,  4.5]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: sign_trash
+  pos: [5.4,  4.5]
+  rotate: 90
+  height: 0.1
+  optional: true
+- kind: sign_trash
+  pos: [5.4,  4.501]
+  rotate: -90
+  height: 0.1
+  optional: true
+
+
+- kind: trash
+  pos: [6.2, 2.2]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [6.2, 2.3]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [6.3, 2.2]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [6.3, 2.1]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: sign_trash
+  pos: [6.3, 2.0]
+  rotate: 90
+  height: 0.1
+  optional: true
+- kind: sign_trash
+  pos: [6.3, 2.001]
+  rotate: -90
+  height: 0.1
+  optional: true
+
+
+- kind: trash
+  pos: [2.1, 5.6]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [2.1, 5.7]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [2.2, 5.7]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: trash
+  pos: [2.2, 5.75]
+  rotate: -90
+  height: 0.04
+  optional: true
+- kind: sign_trash
+  pos: [2.201, 5.65]
+  rotate: 0
+  height: 0.1
+  optional: true
+- kind: sign_trash
+  pos: [2.2, 5.65]
+  rotate: 180
+  height: 0.1
+  optional: true
+
+
+- kind: container
+  pos: [0.9,  3.5]
+  rotate: 90
+  height: 0.1
+  optional: true
+
+tile_size: 0.585

@@ -19,8 +19,8 @@ from gym_duckietown.wrappers import UndistortWrapper
 # from experiments.utils import save_img
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--env-name', default=None)
-parser.add_argument('--map-name', default='udem1')
+parser.add_argument('--env-name', default='Duckietown_udem1') 
+parser.add_argument('--map-name', default='udem1') # check maps into gym_duckietown/maps
 parser.add_argument('--distortion', default=False, action='store_true')
 parser.add_argument('--draw-curve', action='store_true', help='draw the lane following curve')
 parser.add_argument('--draw-bbox', action='store_true', help='draw collision detection bounding boxes')
@@ -62,33 +62,40 @@ def on_key_press(symbol, modifiers):
         env.close()
         sys.exit(0)
 
-    # Take a screenshot
-    # UNCOMMENT IF NEEDED - Skimage dependency
-    # elif symbol == key.RETURN:
-    #     print('saving screenshot')
-    #     img = env.render('rgb_array')
-    #     save_img('screenshot.png', img)
 
 # Register a keyboard handler
 key_handler = key.KeyStateHandler()
 env.unwrapped.window.push_handlers(key_handler)
 
-def update(dt):
+def move_duckiebot_kb():
+
     """
-    This function is called at every frame to handle
-    movement/stepping and redrawing
+    This function allows the keyboard use to move the robot.
     """
 
     action = np.array([0.0, 0.0])
 
-    if key_handler[key.UP]:
+    # FORWARD MOVEMENTS
+    if key_handler[key.UP] and key_handler[key.LEFT]:
+        action = np.array([0.33, +1])
+
+    elif key_handler[key.UP] and key_handler[key.RIGHT]:
+        action = np.array([0.33, -1])
+    elif key_handler[key.RIGHT]:
+        action = np.array([0.0, -1])
+    elif key_handler[key.UP]:
         action = np.array([0.44, 0.0])
-    if key_handler[key.DOWN]:
+    elif key_handler[key.LEFT]:
+        action = np.array([0.0, +1])
+
+    # BACKWARD MOVEMENTS
+    if key_handler[key.DOWN] and key_handler[key.LEFT]:
+        action = np.array([-0.33, +1])
+    elif key_handler[key.DOWN] and key_handler[key.RIGHT]:
+        action = np.array([-0.33, -1])
+    elif key_handler[key.DOWN]:
         action = np.array([-0.44, 0])
-    if key_handler[key.LEFT]:
-        action = np.array([0.35, +1])
-    if key_handler[key.RIGHT]:
-        action = np.array([0.35, -1])
+    
     if key_handler[key.SPACE]:
         action = np.array([0, 0])
 
@@ -96,21 +103,35 @@ def update(dt):
     if key_handler[key.LSHIFT]:
         action *= 1.5
 
-    obs, reward, done, info = env.step(action)
-    print('step_count = %s, reward=%.3f' % (env.unwrapped.step_count, reward))
+    return action
 
+def screenshot(obs):
     if key_handler[key.RETURN]:
         from PIL import Image
         im = Image.fromarray(obs)
-
         im.save('screen.png')
 
+def update(dt):
+    """
+    This function is called at every frame to handle
+    movement/stepping and redrawing
+    """
+
+    action = move_duckiebot_kb() # call robot's movement
+    
+
+    obs, reward, done, info = env.step(action)
+    print('step_count = %s, reward=%.3f' % (env.unwrapped.step_count, reward))
+
+    screenshot(obs) # allow obs (you can change image) screenshot with return key 
+    
     if done:
         print('done!')
-        env.reset()
+        env.reset() # Comment if you don't want reset environment
         env.render()
 
     env.render()
+    # env.render("top_down") # aerial map view (if you uncomment this, comment env.render() line)
 
 pyglet.clock.schedule_interval(update, 1.0 / env.unwrapped.frame_rate)
 
