@@ -33,8 +33,7 @@ Welcome to <b>Duckietown</b>!
 
 1. [Gym-Duckietown](#Gym-Duckietown)
    1. [Introduction](#Introduction)
-   2. [Installation](#Installation)
-      1. [Installation Using Conda (Alternative Method)](#Installation-Using-Conda-Alternative-Method)
+   2. [Installation Windows and Linux](#Installation)
    3. [Usage](#Usage)
       1. [Testing](#Testing)
       2. [Learning](#Learning)
@@ -110,47 +109,48 @@ Requirements:
 - dataclasses (if using Python3.6)
 - PyTorch or Tensorflow (to use the scripts in `learning/`)
 
-You can install all the dependencies except PyTorch with `pip3`:
 
+# Installation Windows and Linux
+
+## Install Anaconda
+
+### Windows
+Follow instructions from [here](https://docs.anaconda.com/anaconda/install/windows/).
+But in 9th step, choose *Add Anaconda3 to PATH environment variable* also.
+
+### Linux
+Follow instructions from [here](https://docs.anaconda.com/anaconda/install/linux/)
+### Linux
+Follow instructions from [here](https://docs.anaconda.com/anaconda/install/mac-os/)
+
+## Install environment
+
+### Windows and Linux
 ```
-git clone https://github.com/duckietown/gym-duckietown.git
+conda create --name gym-duckietown python=3.8
+conda activate gym-duckietown
+git clone https://github.com/arielz001/gym-duckietown/tree/master 
 cd gym-duckietown
-pip3 install -e .
+pip install -r requirements.txt
+python contracts_modify.py
 ```
 
-### Installation Using Conda (Alternative Method)
-
-Alternatively, you can install all the dependencies, including PyTorch, using Conda as follows. For those trying to use this package on MILA machines, this is the way to go:
-
+### Macos
 ```
-git clone https://github.com/duckietown/gym-duckietown.git
+conda create --name gym-duckietown python=3.8
+conda activate gym-duckietown
+git clone -b macbook https://github.com/arielz001/gym-duckietown/tree/master 
 cd gym-duckietown
-conda env create -f environment.yaml
-```
-
-Please note that if you use Conda to install this package instead of pip, you will need to activate your Conda environment and add the package to your Python path before you can use it:
-
-```
-source activate gym-duckietown
-export PYTHONPATH="${PYTHONPATH}:`pwd`"
+pip install -r requirements.txt
+python contracts_modify.py
 ```
 
 ## Usage
 
-```
-import gym, gym_duckietown # registers the envs!
-DUCKIETOWN = ['Duckietown-straight_road-v0','Duckietown-4way-v0','Duckietown-udem1-v0','Duckietown-small_loop-v0','Duckietown-small_loop_cw-v0','Duckietown-zigzag_dists-v0','Duckietown-loop_obstacles-v0','Duckietown-loop_pedestrians-v0']
-for town in DUCKIETOWN:
-  env = gym.make(town)
-  print(town, env.observation_space, env.action_space)
-```
-
-### Testing
-
 There is a simple UI application which allows you to control the simulation or real robot manually. The `manual_control.py` application will launch the Gym environment, display camera images and send actions (keyboard commands) back to the simulator or robot. You can specify which map file to load with the `--map-name` argument:
 
 ```
-./manual_control.py --env-name Duckietown-udem1-v0
+python manual_control.py
 ```
 
 There is also a script to run automated tests (`run_tests.py`) and a script to gather performance metrics (`benchmark.py`).

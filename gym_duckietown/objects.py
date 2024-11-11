@@ -261,7 +261,8 @@ class DuckieObj(WorldObj):
     def __init__(self, obj, domain_rand, safety_radius_mult, walk_distance):
         WorldObj.__init__(self, obj, domain_rand, safety_radius_mult)
 
-        self.walk_distance = walk_distance + 2
+        self.walk_distance = walk_distance + 0.25
+
         # Dynamic duckie stuff
 
         # Randomize velocity and wait time
@@ -277,7 +278,6 @@ class DuckieObj(WorldObj):
         self.start = np.copy(self.pos)
         self.center = self.pos
         self.pedestrian_active = False
-        self.contador = 0
 
         # Walk wiggle parameter
         self.wiggle = np.random.choice([14, 15, 16], 1)
@@ -319,6 +319,7 @@ class DuckieObj(WorldObj):
             self.pedestrian_wait_time -= delta_time
             if self.pedestrian_wait_time <= 0:
                 self.pedestrian_active = True
+            return
 
         # Update centers and bounding box
         vel_adjust = self.heading * self.vel
@@ -326,30 +327,22 @@ class DuckieObj(WorldObj):
         self.obj_corners += vel_adjust[[0, -1]]
 
         distance = np.linalg.norm(self.center - self.start)
-        print(distance)
-        
-        if distance > 6.93:
-            self.doblar_1()
-            self.contador = 1
-        
-        elif self.contador == 1 and distance == 3.4599999999999946:
-            self.doblar_1()
-            self.contador = 0
-        
+
+        if distance > self.walk_distance:
+            self.finish_walk()
 
         self.pos = self.center
         angle_delta = self.wiggle * math.sin(48 * self.time)
         self.y_rot = (self.angle + angle_delta) * (180 / np.pi)
         self.obj_norm = generate_norm(self.obj_corners)
 
-    def doblar_1(self):
+    def finish_walk(self):
         """
         After duckie crosses, update relevant attributes
         (vel, rot, wait time until next walk)
         """
         self.start = np.copy(self.center)
-        self.angle += np.pi/2
-        self.heading = heading_vec(-self.angle)  # Actualizar la dirección hacia la izquierda
+        self.angle += np.pi
         self.pedestrian_active = False
 
         if self.domain_rand:
@@ -362,26 +355,6 @@ class DuckieObj(WorldObj):
             self.vel *= -1
             self.pedestrian_wait_time = 8
 
-
-    def doblar_2(self):
-        """
-        After duckie crosses, update relevant attributes
-        (vel, rot, wait time until next walk)
-        """
-        self.start = np.copy(self.center)
-        self.angle += np.pi/2
-        self.heading = heading_vec(-self.angle)  # Actualizar la dirección hacia la izquierda
-        self.pedestrian_active = False
-
-        if self.domain_rand:
-            # Assign a random velocity (in opp. direction) and a wait time
-            # TODO: Fix this: This will go to 0 over time
-            self.vel = -1 * np.sign(self.vel) * np.abs(np.random.normal(0.02, 0.005))
-            self.pedestrian_wait_time = np.random.randint(3, 20)
-        else:
-            # Just give it the negative of its current velocity
-            self.vel *= -1
-            self.pedestrian_wait_time = 8
 
 class TrafficLightObj(WorldObj):
     def __init__(self, obj, domain_rand, safety_radius_mult):
