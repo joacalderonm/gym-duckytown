@@ -129,7 +129,7 @@ Follow instructions from [here](https://docs.anaconda.com/anaconda/install/mac-o
 ```
 conda create --name gym-duckietown python=3.8
 conda activate gym-duckietown
-git clone https://github.com/arielz001/gym-duckietown/tree/master 
+git clone https://github.com/uch-cc66o/gym-duckietown/tree/master
 cd gym-duckietown
 pip install -r requirements.txt
 python contracts_modify.py
@@ -139,7 +139,7 @@ python contracts_modify.py
 ```
 conda create --name gym-duckietown python=3.8
 conda activate gym-duckietown
-git clone -b macbook https://github.com/arielz001/gym-duckietown/tree/master 
+git clone -b mac https://github.com/uch-cc66o/gym-duckietown/tree/master
 cd gym-duckietown
 pip install -r requirements.txt
 python contracts_modify.py
