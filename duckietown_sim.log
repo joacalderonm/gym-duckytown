@@ -1,0 +1,404 @@
+2025-06-05 14:45:48,380 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 14:46:25,595 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:46:31,075 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:46:54,912 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 14:46:54,912 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-05 14:46:55,647 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 14:46:57,656 - duckietown_sim - INFO - Comenzando giro right
+2025-06-05 14:46:59,473 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-05 14:46:59,473 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 14:47:01,588 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 14:47:03,596 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:47:05,158 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:47:13,190 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:47:31,498 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 14:47:31,498 - duckietown_sim - INFO - Siguiendo ruta: giro straight (índice 1)
+2025-06-05 14:47:32,453 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 14:47:34,599 - duckietown_sim - INFO - Comenzando giro straight
+2025-06-05 14:47:36,444 - duckietown_sim - INFO - Giro straight completado, regresando al seguimiento de carriles
+2025-06-05 14:47:36,444 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 14:47:38,640 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 14:48:28,716 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 14:48:28,716 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 2)
+2025-06-05 14:48:29,416 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 14:48:31,406 - duckietown_sim - INFO - Comenzando giro right
+2025-06-05 14:48:33,225 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-05 14:48:33,225 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 14:48:35,246 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 14:48:48,603 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:48:49,512 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:48:51,659 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:48:55,194 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:49:26,565 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:49:31,829 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:49:35,227 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:49:37,371 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:49:38,783 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:49:45,669 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:49:54,829 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 14:49:54,829 - duckietown_sim - INFO - Siguiendo ruta: giro straight (índice 3)
+2025-06-05 14:49:55,671 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 14:49:57,693 - duckietown_sim - INFO - Comenzando giro straight
+2025-06-05 14:49:59,524 - duckietown_sim - INFO - Giro straight completado, regresando al seguimiento de carriles
+2025-06-05 14:49:59,524 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 14:50:01,457 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 14:50:07,061 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:50:10,821 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 14:50:12,795 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:02:10,984 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:02:39,022 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:02:39,022 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:03:28,439 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:03:28,442 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:04:27,475 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:04:27,482 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:04:52,020 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:04:52,021 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:05:33,571 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:05:33,571 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:06:28,464 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:06:28,464 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:07:17,258 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:07:17,258 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:08:13,777 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:08:13,777 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:08:42,268 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:08:42,268 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:09:23,921 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:09:23,921 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:10:10,718 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:10:10,718 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:11:07,627 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:11:07,627 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:11:48,954 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:11:48,954 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:12:30,131 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:12:30,131 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:13:13,704 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:13:13,704 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:14:33,160 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:14:33,160 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:15:27,649 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:15:27,649 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:16:32,539 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:16:32,539 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:17:37,702 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:17:37,702 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:18:29,388 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:18:29,389 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:19:27,403 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:19:27,403 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:19:46,866 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:19:51,743 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:20:14,159 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:20:14,159 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-05 15:20:14,863 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:20:50,899 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:20:50,899 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:21:33,379 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:21:33,381 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:21:52,614 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:21:57,470 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:22:20,022 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:22:20,022 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-05 15:22:20,718 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:22:22,580 - duckietown_sim - INFO - Comenzando giro right
+2025-06-05 15:23:25,418 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:23:25,418 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:24:03,953 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:24:09,305 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:24:31,823 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:24:31,823 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-05 15:24:32,522 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:24:34,542 - duckietown_sim - INFO - Comenzando giro right
+2025-06-05 15:24:36,230 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-05 15:25:06,251 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:25:06,251 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:25:46,140 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:25:54,348 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:26:23,591 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:26:23,591 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-05 15:26:24,327 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:26:26,255 - duckietown_sim - INFO - Comenzando giro right
+2025-06-05 15:26:28,024 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-05 15:26:28,024 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 15:26:29,983 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 15:26:31,875 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:26:33,424 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:26:41,491 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:26:58,388 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:26:58,388 - duckietown_sim - INFO - Siguiendo ruta: giro straight (índice 1)
+2025-06-05 15:26:59,312 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:27:01,179 - duckietown_sim - INFO - Comenzando giro straight
+2025-06-05 15:27:02,866 - duckietown_sim - INFO - Giro straight completado, regresando al seguimiento de carriles
+2025-06-05 15:27:02,866 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 15:27:04,892 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 15:27:57,246 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:27:57,246 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 2)
+2025-06-05 15:27:58,009 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:27:59,973 - duckietown_sim - INFO - Comenzando giro right
+2025-06-05 15:28:01,694 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-05 15:28:01,694 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 15:28:03,826 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 15:28:20,917 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:28:22,567 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:28:25,523 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:28:30,948 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:29:20,143 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:29:28,413 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:29:33,973 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:29:37,477 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:29:39,940 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:29:51,244 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:30:06,308 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:30:06,309 - duckietown_sim - INFO - Siguiendo ruta: giro straight (índice 3)
+2025-06-05 15:30:07,693 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:30:10,994 - duckietown_sim - INFO - Comenzando giro straight
+2025-06-05 15:30:13,902 - duckietown_sim - INFO - Giro straight completado, regresando al seguimiento de carriles
+2025-06-05 15:30:13,903 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 15:30:17,437 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 15:30:27,252 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:30:32,809 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:30:35,186 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:30:49,925 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 15:30:49,926 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 4)
+2025-06-05 15:30:50,711 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-05 15:30:53,001 - duckietown_sim - INFO - Comenzando giro right
+2025-06-05 15:30:55,022 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-05 15:30:55,022 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-05 15:30:57,428 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-05 15:31:13,571 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:31:13,571 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:31:33,877 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:31:38,782 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:32:01,411 - duckietown_sim - INFO - Cambiando a estado APPROACHING
+2025-06-05 15:32:10,644 - duckietown_sim - INFO - Cooldown terminado
+2025-06-05 15:32:13,349 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:32:15,720 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:32:28,322 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:32:45,824 - duckietown_sim - INFO - Cambiando a estado APPROACHING
+2025-06-05 15:32:52,415 - duckietown_sim - INFO - Cooldown terminado
+2025-06-05 15:33:45,985 - duckietown_sim - INFO - Cambiando a estado APPROACHING
+2025-06-05 15:33:55,905 - duckietown_sim - INFO - Cooldown terminado
+2025-06-05 15:37:31,058 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:37:31,060 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:39:58,172 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:39:58,173 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:40:13,075 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,185 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,293 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,407 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,515 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,624 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,723 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,831 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:13,932 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,026 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,137 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,239 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,331 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,440 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,544 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,646 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,755 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,864 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:14,972 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,082 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,190 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,283 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,391 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,501 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,616 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,720 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,828 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:15,942 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,052 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,160 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,262 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,361 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,471 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,580 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,689 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,798 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:16,905 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:17,014 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:17,119 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:17,807 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:17,948 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:18,616 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:18,759 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:19,231 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:19,516 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:19,810 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:40:19,932 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:20,057 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:20,187 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:20,296 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:20,417 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:20,528 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:20,667 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:24,277 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:25,548 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:40:25,632 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:25,771 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:25,880 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:25,988 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,112 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,234 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,342 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,472 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,575 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,689 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,799 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:26,908 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:27,017 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:31,726 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:31,835 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:31,943 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,052 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,156 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,267 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,372 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,481 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,581 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,696 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,809 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:32,901 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,014 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,123 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,232 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,341 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,478 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,588 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,697 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,805 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:33,914 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:34,021 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:34,131 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:34,239 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:34,340 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:34,449 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:35,051 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:35,160 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:35,268 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:35,622 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:35,822 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:35,938 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:36,359 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:36,461 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:36,569 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:36,702 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:36,826 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:37,140 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:37,250 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:38,021 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:38,130 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:50,223 - duckietown_sim - INFO - Giro elegido: right
+2025-06-05 15:40:52,946 - duckietown_sim - INFO - Ejecutando giro
+2025-06-05 15:40:54,836 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:54,939 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,042 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,151 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,257 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,365 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,474 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,589 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,705 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,811 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:55,909 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,007 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,119 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,225 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,335 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,430 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,533 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,644 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,737 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,845 - duckietown_sim - INFO - Intersección lista para detectar de nuevo
+2025-06-05 15:40:56,848 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:56,958 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,065 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,168 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,272 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,370 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,479 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,588 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,681 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,789 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:57,912 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,036 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,177 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,302 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,425 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,562 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,702 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,854 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:58,992 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,134 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:40:59,223 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,333 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,431 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,533 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,644 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,757 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,865 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:40:59,957 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,066 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,174 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,282 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,392 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,502 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,611 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,721 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:41:00,888 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:00,998 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,107 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,216 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,326 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,437 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,538 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,648 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,755 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:01,972 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:02,900 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:03,011 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,254 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,362 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,456 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,563 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,664 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,769 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,877 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:05,992 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,094 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,194 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,299 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,392 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,495 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,589 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,698 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,799 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:06,907 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,014 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,111 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,219 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,329 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,436 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,546 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,657 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,757 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,852 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:07,949 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,042 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,152 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,261 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,371 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,473 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,583 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,692 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:08,794 - duckietown_sim - WARNING - No se detectó un objetivo válido en el carril
+2025-06-05 15:41:09,008 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 15:41:34,204 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:41:34,204 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 15:41:56,672 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 15:41:56,673 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']

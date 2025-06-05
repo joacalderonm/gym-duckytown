@@ -1,8 +1,9 @@
+import os
+    
 import ast
 import argparse
 import logging
 
-import os
 import numpy as np
 
 # Duckietown Specific

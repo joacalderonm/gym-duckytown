@@ -94,7 +94,7 @@ import time
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--env-name', default='Duckietown_training') 
-parser.add_argument('--map-name', default='straight_road') # check maps into gym_duckietown/maps
+parser.add_argument('--map-name', default='udem1') # check maps into gym_duckietown/maps
 parser.add_argument('--distortion', default=False, action='store_true')
 parser.add_argument('--draw-curve', action='store_true', help='draw the lane following curve')
 parser.add_argument('--draw-bbox', action='store_true', help='draw collision detection bounding boxes')
@@ -144,7 +144,7 @@ def get_state(env):
 # Entrenamiento
 for ep in range(episodes):
     obs = env.reset()
-    env.unwrapped.cur_pos = [1.5, 0.0, 0.5]
+    env.unwrapped.cur_pos = [2.5, 0.0, 1.0]  # posición inicial
     env.unwrapped.cur_angle = 0.0
 
 
