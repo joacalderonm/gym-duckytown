@@ -402,3 +402,488 @@
 2025-06-05 15:41:34,204 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
 2025-06-05 15:41:56,672 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
 2025-06-05 15:41:56,673 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 21:00:20,637 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 21:00:20,644 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 21:01:18,622 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 21:01:18,622 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 21:52:26,699 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 21:52:26,699 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 21:53:09,310 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 21:53:09,311 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 21:53:33,869 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 21:53:36,964 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 21:53:40,278 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 21:53:41,518 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-05 21:53:48,305 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-05 21:53:48,306 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-05 21:54:44,533 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 21:54:44,533 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:42:24,439 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:43:17,042 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:43:17,042 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:43:17,042 - duckietown_sim - INFO - Límites HSV para el amarillo: [ 20 100 100] - [ 35 255 255]
+2025-06-05 23:43:17,043 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:44:02,279 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:44:10,170 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:44:10,170 - duckietown_sim - INFO - Límites HSV para el amarillo: [ 20 100 100] - [ 35 255 255]
+2025-06-05 23:44:10,171 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:46:41,996 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:46:48,893 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:46:48,893 - duckietown_sim - INFO - Límites HSV para el amarillo: [ 20 100 100] - [ 35 255 255]
+2025-06-05 23:46:48,893 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:48:34,709 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:48:42,101 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:48:42,102 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:49:05,031 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:49:11,972 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:49:11,973 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:49:18,341 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:49:24,457 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:49:24,458 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:50:47,273 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:50:53,434 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-05 23:50:53,434 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:50:53,435 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:52:35,399 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:52:42,947 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-05 23:52:42,947 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:52:42,949 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:53:16,664 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:53:22,749 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-05 23:53:22,749 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:53:22,750 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:54:46,326 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:54:53,143 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-05 23:54:53,143 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:54:53,144 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:56:28,227 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:56:35,885 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-05 23:56:35,885 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:56:35,886 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-05 23:58:23,291 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-05 23:58:29,363 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-05 23:58:29,363 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-05 23:58:29,363 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:00:26,247 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:00:33,659 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:00:33,660 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:00:33,660 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:01:15,393 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:01:23,809 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:01:23,810 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:01:23,810 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:01:44,466 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:01:51,135 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:01:51,136 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:01:51,136 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:01:51,137 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:03:07,078 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:03:13,573 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:03:13,573 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:03:13,573 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:03:13,574 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:03:31,231 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:03:34,789 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:03:37,902 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:03:39,192 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:03:44,781 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-06 00:03:44,781 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-06 00:03:45,277 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-06 00:03:46,919 - duckietown_sim - INFO - Comenzando giro right
+2025-06-06 00:03:48,347 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-06 00:03:48,348 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-06 00:03:50,584 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-06 00:03:59,165 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:04:13,444 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-06 00:04:13,444 - duckietown_sim - INFO - Siguiendo ruta: giro straight (índice 1)
+2025-06-06 00:04:14,145 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-06 00:04:16,021 - duckietown_sim - INFO - Comenzando giro straight
+2025-06-06 00:04:17,713 - duckietown_sim - INFO - Giro straight completado, regresando al seguimiento de carriles
+2025-06-06 00:04:17,713 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-06 00:04:19,591 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-06 00:09:47,126 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:09:54,710 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:09:54,710 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:09:54,710 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:09:54,710 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:10:10,988 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:10:15,433 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:10:19,141 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:10:20,685 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:10:27,336 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-06 00:10:27,336 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-06 00:10:27,934 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-06 00:10:29,867 - duckietown_sim - INFO - Comenzando giro right
+2025-06-06 00:10:31,623 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-06 00:10:31,623 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-06 00:10:33,573 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-06 00:10:42,938 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:10:59,352 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-06 00:10:59,353 - duckietown_sim - INFO - Siguiendo ruta: giro straight (índice 1)
+2025-06-06 00:11:00,204 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-06 00:11:02,142 - duckietown_sim - INFO - Comenzando giro straight
+2025-06-06 00:11:03,782 - duckietown_sim - INFO - Giro straight completado, regresando al seguimiento de carriles
+2025-06-06 00:11:03,782 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-06 00:11:05,396 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-06 00:15:47,832 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:15:54,049 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:15:54,049 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:15:54,049 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:15:54,049 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:16:08,849 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:16:12,940 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:16:16,408 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:16:17,830 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:16:23,992 - duckietown_sim - INFO - Línea roja detectada, preparándose para la intersección
+2025-06-06 00:16:23,993 - duckietown_sim - INFO - Siguiendo ruta: giro right (índice 0)
+2025-06-06 00:16:24,554 - duckietown_sim - INFO - Pico rojo detectado, esperando para cruzar la línea
+2025-06-06 00:16:26,320 - duckietown_sim - INFO - Comenzando giro right
+2025-06-06 00:16:27,950 - duckietown_sim - INFO - Giro right completado, regresando al seguimiento de carriles
+2025-06-06 00:16:27,950 - duckietown_sim - INFO - Estableciendo enfriamiento de intersección por 20 cuadros
+2025-06-06 00:16:29,780 - duckietown_sim - INFO - Enfriamiento de intersección terminado, listo para la próxima intersección
+2025-06-06 00:16:39,849 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:22:02,767 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:22:02,768 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:22:02,768 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:22:02,768 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:22:08,786 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:22:08,786 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:22:08,786 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:22:08,787 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:23:04,060 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:23:04,060 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:23:04,060 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:23:04,060 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:23:10,118 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:23:10,118 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:23:10,118 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:23:10,119 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:24:04,083 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:24:04,083 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:24:04,083 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:24:04,084 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:24:10,111 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:24:10,111 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:24:10,112 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:24:10,112 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:26:24,061 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:26:24,061 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:26:24,062 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:26:24,062 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:26:30,629 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:26:30,629 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:26:30,629 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:26:30,630 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:27:06,576 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:27:06,576 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:27:06,578 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:27:06,578 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:27:12,765 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:27:12,765 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:27:12,766 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:27:12,766 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:28:07,113 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:28:07,114 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:28:07,114 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:28:07,114 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:28:13,844 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:28:13,845 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:28:13,845 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:28:13,845 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:30:51,560 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:31:59,315 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:31:59,315 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:31:59,315 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:31:59,315 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:32:06,693 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:32:06,693 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:32:06,693 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:32:06,694 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:33:53,394 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:33:53,394 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:33:53,394 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:33:53,394 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:33:59,500 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:33:59,500 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:33:59,500 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:33:59,501 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:34:37,373 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:34:37,373 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:34:37,373 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:34:37,373 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:34:43,617 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:34:43,617 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:34:43,617 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:34:43,618 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:36:31,394 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:36:31,395 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:36:31,395 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:36:31,395 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:36:37,669 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:36:37,669 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:36:37,669 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:36:37,670 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:37:03,131 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:37:03,131 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:37:03,131 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:37:03,131 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:37:10,731 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:37:10,731 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:37:10,732 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:37:10,732 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:37:33,596 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:37:33,597 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:37:33,597 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:37:33,597 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:37:39,621 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:37:39,622 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:37:39,622 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:37:39,622 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:38:36,235 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:38:36,236 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:38:36,236 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:38:36,236 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:38:42,323 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:38:42,323 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:38:42,324 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:38:42,324 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:40:19,238 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:40:19,238 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:40:19,238 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:40:19,238 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:40:26,395 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:40:26,395 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:40:26,395 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:40:26,396 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:40:41,105 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:40:50,548 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:40:53,554 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:40:54,918 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:41:00,755 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:42:10,216 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:42:10,216 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:42:10,217 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:42:10,217 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:42:16,468 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:42:16,468 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:42:16,468 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:42:16,470 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:42:31,392 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:45:05,080 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:45:05,081 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:45:05,081 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:45:05,081 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:45:11,194 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:45:11,194 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:45:11,195 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:45:11,195 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:45:26,036 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:45:46,230 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:45:46,230 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:45:46,231 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:45:46,231 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:45:53,850 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:45:53,851 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:45:53,851 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:45:53,851 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:54:49,453 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 00:54:49,453 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 00:54:49,453 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 00:54:49,453 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 00:54:56,575 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 00:54:56,575 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 00:54:56,575 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 00:54:56,575 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 00:55:12,314 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:20,911 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:23,862 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:25,180 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:31,198 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:38,526 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:39,292 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:41,084 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 00:55:44,203 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:04:53,454 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:04:53,454 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:04:53,454 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:04:53,454 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:05:01,114 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:05:01,114 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:05:01,115 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:05:01,115 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:05:42,499 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:06:15,463 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:06:19,149 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:06:20,545 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:06:26,919 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:07:36,836 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:07:37,777 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:07:39,956 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:07:44,889 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:08:13,145 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:08:18,457 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:08:21,565 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:08:24,337 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:08:25,833 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:08:38,818 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:08:38,818 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:08:38,818 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:08:38,818 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:08:46,172 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:08:46,172 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:08:46,172 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:08:46,172 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:09:28,749 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:14:01,633 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:14:01,633 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:14:01,633 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:14:01,633 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:14:08,027 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:14:08,027 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:14:08,027 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:14:08,027 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:15:50,067 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:15:50,067 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:15:50,067 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:15:50,067 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:15:56,620 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:15:56,620 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:15:56,620 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:15:56,621 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:40:46,099 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:40:46,099 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:40:46,099 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:40:46,099 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:40:53,958 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:40:53,959 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:40:53,959 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:40:53,960 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:43:06,921 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:43:06,921 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:43:06,921 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:43:06,921 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:43:13,748 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:43:13,748 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:43:13,748 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:43:13,748 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:43:55,193 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:45:51,068 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:45:51,068 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:45:51,068 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:45:51,068 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:45:57,382 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:45:57,382 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:45:57,382 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:45:57,383 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:51:10,799 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:51:10,800 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:51:10,800 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:51:10,800 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:51:17,216 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:51:17,216 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:51:17,217 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:51:17,217 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 01:52:07,259 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:52:40,560 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:52:44,427 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:52:45,877 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 01:54:58,221 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 01:54:58,221 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 01:54:58,221 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 01:54:58,221 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 01:55:04,444 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 01:55:04,444 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 01:55:04,445 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 01:55:04,445 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:03:43,832 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:03:43,832 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:03:43,832 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:03:43,832 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:03:49,921 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:03:49,922 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:03:49,922 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:03:49,923 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:04:13,174 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:04:13,174 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:04:13,174 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:04:13,174 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:04:19,290 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:04:19,290 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:04:19,291 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:04:19,291 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:04:40,832 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:04:45,185 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:04:49,712 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:04:51,107 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:04:57,403 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:05:05,875 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:05:06,650 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:05:08,662 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:05:11,656 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:05:40,625 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:11:10,246 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:11:10,247 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:11:10,247 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:11:10,247 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:11:17,702 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:11:17,703 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:11:17,703 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:11:17,703 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:11:31,440 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:11:31,440 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:11:31,440 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:11:31,441 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:11:38,661 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:11:38,661 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:11:38,662 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:11:38,662 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:14:00,662 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:14:00,663 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:14:00,663 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:14:00,663 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:14:07,140 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:14:07,140 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:14:07,141 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:14:07,141 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:14:23,916 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:14:23,917 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:14:23,917 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:14:23,917 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:14:30,302 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:14:30,302 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:14:30,303 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:14:30,303 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:14:51,908 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:14:56,313 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:14:59,875 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:15:01,247 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:15:07,690 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:17:56,861 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:17:56,862 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:17:56,862 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:17:56,862 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:18:02,971 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:18:02,971 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:18:02,971 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:18:02,973 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:18:24,918 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:18:29,380 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:18:33,052 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:18:34,335 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:19:13,661 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-06 02:19:13,661 - duckietown_sim - INFO - Inicializando manejador de intersecciones
+2025-06-06 02:19:13,661 - duckietown_sim - INFO - Inicializando procesador de visión
+2025-06-06 02:19:13,661 - duckietown_sim - INFO - Inicializando odometría
+2025-06-06 02:19:19,812 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-06 02:19:19,812 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-06 02:19:19,812 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-06 02:19:19,813 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-06 02:19:41,698 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:19:46,138 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:19:49,738 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:19:51,116 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:19:57,195 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:20:05,161 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:20:05,993 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:20:08,043 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-06 02:20:11,166 - duckietown_sim - INFO - Episodio reiniciado
