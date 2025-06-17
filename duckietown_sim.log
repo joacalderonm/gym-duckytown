@@ -887,3 +887,12 @@
 2025-06-06 02:20:05,993 - duckietown_sim - INFO - Episodio reiniciado
 2025-06-06 02:20:08,043 - duckietown_sim - INFO - Episodio reiniciado
 2025-06-06 02:20:11,166 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-17 01:38:24,254 - duckietown_sim - INFO - Inicializando simulador Duckietown con odometría y planificación
+2025-06-17 01:38:29,838 - duckietown_sim - INFO - Entorno Duckietown inicializado correctamente.
+2025-06-17 01:38:29,838 - duckietown_sim - INFO - Inicializando parámetros de simulación y visión
+2025-06-17 01:38:29,838 - duckietown_sim - INFO - Ruta cargada: ['right', 'straight', 'right', 'straight']
+2025-06-17 01:38:29,838 - duckietown_sim - INFO - Simulador Duckietown inicializado correctamente.
+2025-06-17 01:38:32,139 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-17 01:38:37,717 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-17 01:38:39,204 - duckietown_sim - INFO - Episodio reiniciado
+2025-06-17 01:38:42,499 - duckietown_sim - INFO - Episodio reiniciado
